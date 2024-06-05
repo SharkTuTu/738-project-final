@@ -1,1 +1,13 @@
+This study analyzes the factors influencing the outer volume of passerine cup nests using Principal Component Analysis (PCA) and linear regression models. The data includes various environmental and geographical variables such as temperature, rainfall, latitude, island effects, and nest location.
+
+Principal Component Analysis (PCA)
+The results of the PCA show that the first four principal components (PC1, PC2, PC3, and PC4) explain most of the variability in the data:
+PC1 is mainly contributed by Range_midpoint_latitude and Mean_rainfall, indicating that latitude and rainfall are significant factors affecting nest outer volume.
+PC2 is mainly contributed by Outer_volume..cm3 and Mean_temperature, indicating that nest volume and temperature are also important factors.
+PC3 and PC4 have weaker contributions but still have some impact.
+Linear Regression Model
+The coefficients of PC1 and PC2 are significant, indicating that these principal components significantly affect the outer nest volume. Specifically, the positive coefficient of PC1 (0.15282) and the negative coefficient of PC2 (-0.48398) indicate different directional impacts.
+The coefficient of PC3 is not significant, indicating a weaker impact on the outer nest volume.
+The negative coefficient of PC4 (-0.29652) is significant, indicating a significant negative impact on the outer nest volume.
+The analysis of residual plots and regression coefficient plots further helps to understand the model fit and the impact of each variable.
 
