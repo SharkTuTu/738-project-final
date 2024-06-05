@@ -11,3 +11,5 @@ The coefficient of PC3 is not significant, indicating a weaker impact on the out
 The negative coefficient of PC4 (-0.29652) is significant, indicating a significant negative impact on the outer nest volume.
 The analysis of residual plots and regression coefficient plots further helps to understand the model fit and the impact of each variable.
 
+This study reveals the key factors affecting the outer volume of passerine cup nests through principal component analysis and linear regression models. The results show that latitude, rainfall, temperature, and nest volume play important roles in the macroecological patterns of nest size. Our findings are consistent with the original paper and also highlight additional influencing factors, such as rainfall. This validates the main conclusions of the original study and provides additional data support.
+
